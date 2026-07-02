@@ -1,4 +1,4 @@
-
+class Adhithyan:
 
     def __init__(self):
         self.name = "D. Adhithyan"
@@ -43,3 +43,5 @@
 
     def motto(self):
         return "Code • Learn • Build • Deploy • Repeat"
+
+me = Adhithyan()
