@@ -91,21 +91,21 @@ print(me.motto())
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aswath_tamilan&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswath_tamilan&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADHITHYAN0520&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=aswath_tamilan&theme=tokyonight-duo&background=0D1117&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ADHITHYAN0520&theme=tokyonight-duo&background=0D1117&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aswath_tamilan&theme=tokyo-night&bg_color=0d1117&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ADHITHYAN0520&theme=tokyo-night&bg_color=0d1117&hide_border=true"/>
 </p>
 
 # 🏆 Trophy Wall
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aswath_tamilan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ADHITHYAN0520&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 </p>
 
 # 💼 Work Experience
