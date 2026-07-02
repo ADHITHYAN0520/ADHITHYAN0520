@@ -1,16 +1,47 @@
-## Hi there 👋
+class Adhithyan:
 
-<!--
-**ADHITHYAN0520/ADHITHYAN0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    def __init__(self):
+        self.name = "D. Adhithyan"
+        self.location = "Chennai, Tamil Nadu, India"
 
-Here are some ideas to get you started:
+        self.degree = "B.Tech Computer Science Engineering"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        self.role = [
+            "Python Developer",
+            "Machine Learning Engineer",
+            "AWS Certified"
+        ]
+
+        self.stack = [
+            "Python",
+            "Java",
+            "SQL",
+            "HTML",
+            "CSS",
+            "Machine Learning",
+            "OpenCV",
+            "Scikit-learn",
+            "TensorFlow",
+            "PyTorch",
+            "Docker",
+            "Linux",
+            "AWS",
+            "Git"
+        ]
+
+        self.currently_learning = [
+            "Deep Learning",
+            "Generative AI",
+            "Large Language Models",
+            "MLOps",
+            "Cloud Deployment"
+        ]
+
+        self.fun_fact = (
+            "I enjoy turning real-world problems into AI-powered applications."
+        )
+
+    def motto(self):
+        return "Code • Learn • Build • Deploy • Repeat"
+
+me = Adhithyan()
